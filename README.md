@@ -1,2 +1,2 @@
 # graph_embeddings
-Graph Embeddings
+Computing Graph node embeddings using node2vec algo.
